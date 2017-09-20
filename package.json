@@ -1,0 +1,19 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masaki1223/Clock.git"
+  },
+  "author": "Masaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masaki1223/Clock/issues"
+  },
+  "homepage": "https://github.com/masaki1223/Clock#readme"
+}
